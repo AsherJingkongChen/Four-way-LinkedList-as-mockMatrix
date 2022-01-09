@@ -1,0 +1,1 @@
+`Chmod +x exe.command`
